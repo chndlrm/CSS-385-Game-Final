@@ -22,7 +22,7 @@ After our pitch we had a new member join our team. This lessened the load of the
 ## Part 2: Prototypes
 Our first task was determining what prototypes were necessary to create the game we wanted. These prototypes were not too difficult to implement, but we were far from satisfied. 
 
-Inital prototypes include:
+Inital prototypes:
 - Double Jump
 - Slide Down Wall
 - Change of Gravity
@@ -36,12 +36,19 @@ Below is the first build that showcased some of the prototypes we initially deci
 https://chndlrm.github.io/CSS385-Build1/
 
 ## Part 3: Game Demo
+### Changes
+- Title screen
+- Demo level
+- Improved animations
+- Traps (fire, spikes, etc.)
+
 https://chndlrm.github.io/CSS385-Build2/
 
 
 ## Part 4: Alpha Play Test
-### What we added
-We 
+### Changes
+- Level selection screen
+
 
 
 https://kylunr.github.io/FamineFighters/
@@ -50,7 +57,7 @@ https://kylunr.github.io/FamineFighters/
 
 
 ## Part 5: Beta Play Test
-
+### Changes
 
 
 https://chndlrm.github.io/CSS-385-Build4/
@@ -59,7 +66,7 @@ https://chndlrm.github.io/CSS-385-Build4/
 
 
 ## Part 6: Final Play Through
-
+### Changes
 
 ## Difficulties and Known Problems
 GitHub caused us problems as it didn't always merge scenes correctly. Initially we didn't know which files to push and this caused storage issues on GitHub. 
