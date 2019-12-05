@@ -35,14 +35,21 @@ We added the dash ability and removed the slide down wall prototype from the fir
 Below is the first build that showcased some of the prototypes we initially decided on. 
 https://chndlrm.github.io/CSS385-Build1/
 
-## Part 3: Alpha Play Test
+## Part 3: Game Demo
 https://chndlrm.github.io/CSS385-Build2/
 
-## Part 4: Beta Play Test
+
+## Part 4: Alpha Play Test
 https://kylunr.github.io/FamineFighters/
 
-## Part 5: Gamma Play Test
+### Feedback
+
+
+## Part 5: Beta Play Test
 https://chndlrm.github.io/CSS-385-Build4/
+
+### Feedback
+
 
 ## Part 6: Final Play Through
 
@@ -54,9 +61,12 @@ We used a tile map to construct the terrain which had its own specific collider 
 
 ## Tools Used
 To communicate we used Discord and iMessage. 
-For file sharing we tried to use GitHub but found it tricky to work with and switched to Unity's collaboration tool. 
 
-## Conclusion
+For file sharing we tried to use GitHub but found it tricky to work with and switched to Unity's collaboration tool.
+
+
+
+## Conclusion and Thoughts
 I mainly worked on the hero behavior, animation, and physics. 
 
 ### Assets Used
