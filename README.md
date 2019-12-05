@@ -15,8 +15,11 @@ https://docs.google.com/presentation/d/1ynlShPdfaP0fzSeQXWTvgKkCMCZHIch1NbkDB1Gv
 
 After our pitch we had a new member join our team. This lessened the load of the work greatly. 
 
+Below is a series of builds we presented to the class and our professor demonstrating the progress we made throughout the quarter. 
 ## Part 2: Prototypes
+Our first task was determining what prototypes were necessary to create the game we wanted. 
 
+Below is the first build that showcased some of the prototypes we initially decided on. 
 https://chndlrm.github.io/CSS385-Build1/
 
 ## Part 3: Alpha Play Test
@@ -32,7 +35,9 @@ https://chndlrm.github.io/CSS-385-Build4/
 
 
 ## Difficulties and Known Problems
-GitHub caused us problems as it didn't always merge scenes correctly. Initially we didn't know which files to push and this caused pacial issues
+GitHub caused us problems as it didn't always merge scenes correctly. Initially we didn't know which files to push and this caused storage issues on GitHub. 
+
+We used a tile map to construct the terrain which had its own specific collider component. We weren't able to fully figure out how to have the character sprite interact with this smoothly. For example, when the player interacts with a wall, the character shakes; and the wall will act as a floor if the player tries to jump next to it. We eventually determined that because we weren't using the character's RigidBody component to move the character, 
 
 ## Tools Used
 To communicate we used Discord and iMessage. 
