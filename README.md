@@ -15,7 +15,7 @@ https://docs.google.com/presentation/d/1ynlShPdfaP0fzSeQXWTvgKkCMCZHIch1NbkDB1Gv
 
 After our pitch we had a new member join our team. This lessened the load of the work greatly. 
 
-###### Below is a series of builds we presented to the class and our professor demonstrating the progress we made throughout the quarter. 
+###### Below is a series of builds we presented to the class demonstrating the progress we made throughout the quarter. 
 
 
 ## Part 2: Prototypes
