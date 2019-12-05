@@ -40,12 +40,19 @@ https://chndlrm.github.io/CSS385-Build2/
 
 
 ## Part 4: Alpha Play Test
+### What we added
+We 
+
+
 https://kylunr.github.io/FamineFighters/
 
 ### Feedback
 
 
 ## Part 5: Beta Play Test
+
+
+
 https://chndlrm.github.io/CSS-385-Build4/
 
 ### Feedback
@@ -59,15 +66,31 @@ GitHub caused us problems as it didn't always merge scenes correctly. Initially 
 
 We used a tile map to construct the terrain which had its own specific collider component. We weren't able to fully figure out how to have the character sprite interact with this smoothly. For example, when the player interacts with a wall, the character shakes; and the wall will act as a floor if the player tries to jump next to it. We eventually determined that because we weren't using the character's RigidBody component to move the character, instead opting to use the default transform system. The issue arises because the RigidBody component doesn't know how to interact with the wall. It doesn't know what to do when the character is at a wall and tries to push through, but the object collider doesn't allow this, hence the shaking. In our attempts to use the RigidBody movement tool, we discovered more issues that made the game unplayable. 
 
-## Tools Used
-To communicate we used Discord and iMessage. 
+## Tools we Used
+Communication: 
+- Discord 
+- iMessage
 
-For file sharing we tried to use GitHub but found it tricky to work with and switched to Unity's collaboration tool.
+File Sharing: 
+- GitHub (didn't work the way we wanted to)
+- Unity Collaboration Tool
 
+Assets:
+- Unity Asset Store
+- SoundCloud
+- freesound.org
+- Canva.com
 
+## What I Worked on
+- Hero behavior script
+- Hero animation and physics
+- Title screen and level selection screen
+- Level selection script
+- Checkpoint system
 
 ## Conclusion and Thoughts
-I mainly worked on the hero behavior, animation, and physics. 
+
+
 
 ### Assets Used
 Characters, enemies, traps, obstacles, items, and terrain were found on the Unity Asset Store. 
