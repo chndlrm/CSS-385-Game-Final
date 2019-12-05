@@ -8,30 +8,31 @@ After looking at demos from previous classes' final projects, we realized our am
 
 We decided on a 2D platformer that featured three of the four characters from the asset pack, with the fourth reserved as the final boss. The player would be given a choice at the beginning of the game of which character they wanted to play as, each with their own ability. The abilities are: double jump, dash, and gravity shift. 
 
-Just before we gave our pitch, we came up with the idea to let the player switch between the characters in-game. This decision allowed us more flexibility with level design. 
+Just before we gave our pitch, we came up with the idea to let the player switch between the characters in-game. The inspiration came from Grand Theft Auto 5 where the player is allowed to switch between its three characters each with their own abilities. This decision allowed us more flexibility with level design. 
 
 Below is a link to the game pitch we gave:
 https://docs.google.com/presentation/d/1ynlShPdfaP0fzSeQXWTvgKkCMCZHIch1NbkDB1GvGdo/edit?usp=sharing
+
+After our pitch we had a new member join our team. This lessened the load of the work greatly. 
 
 ## Part 2: Prototypes
 
 https://chndlrm.github.io/CSS385-Build1/
 
-## Part 3: Play Testing session 1
-https://chndlrm.github.io/CSS385-Build1/
-
-## Part 4: Play Testing session 2
+## Part 3: Alpha Play Test
 https://chndlrm.github.io/CSS385-Build2/
 
-## Part 5: Play Testing session 3
-https://chndlrm.github.io/CSS-385-Build4/
+## Part 4: Beta Play Testing
+https://kylunr.github.io/FamineFighters/
 
+## Part 5: Gamma Play Testing session 3
+https://chndlrm.github.io/CSS-385-Build4/
 
 ## Part 6: Final Play Through
 
 
 ## Difficulties and Known Problems
-
+GitHub caused us problems as it didn't always merge scenes correctly. Initially we didn't know which files to push and this caused pacial issues
 
 ## Tools Used
 To communicate we used Discord and iMessage. 
