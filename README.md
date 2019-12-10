@@ -67,6 +67,12 @@ https://chndlrm.github.io/CSS-385-Build4/
 
 ## Part 6: Final Play Through
 ### Changes
+- Improved collision system
+- Credits Scene
+- Updated Title Screen
+
+https://chndlrm.github.io/CSS-385-Build5/index.html
+
 
 ## Difficulties and Known Problems
 GitHub caused us problems as it didn't always merge scenes correctly. Initially we didn't know which files to push and this caused storage issues on GitHub. 
