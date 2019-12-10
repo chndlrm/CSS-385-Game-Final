@@ -11,16 +11,16 @@ We decided on a 2D platformer that featured three of the four characters from th
 Just before we gave our pitch, we came up with the idea to let the player switch between the characters in-game. The inspiration came from Grand Theft Auto 5 where the player is allowed to switch between its three characters each with their own abilities. This decision allowed us more flexibility with level design. 
 
 Below is a link to the game pitch we gave:
+
 https://docs.google.com/presentation/d/1ynlShPdfaP0fzSeQXWTvgKkCMCZHIch1NbkDB1GvGdo/edit?usp=sharing
 
-After our pitch we had a new member join our team. This lessened the load of the work greatly. 
+After our pitch, we had a new member join our team. 
 
 
 ###### Below is a series of builds we presented to the class demonstrating the progress we made throughout the quarter. 
 
-
 ## Part 2: Prototypes
-Our first task was determining what prototypes were necessary to create the game we wanted. These prototypes were not too difficult to implement, but we were far from satisfied. 
+Our first task was determining what prototypes were necessary to create the game we wanted. 
 
 Inital prototypes:
 - Double Jump
@@ -30,7 +30,7 @@ Inital prototypes:
 - Power Ups
 - Switchable characters
 
-We added the dash ability and removed the slide down wall prototype from the first build. 
+We added the dash ability and removed the slide-down-wall prototype from the first build. 
 
 Below is the first build that showcased some of the prototypes we initially decided on. 
 https://chndlrm.github.io/CSS385-Build1/
@@ -44,11 +44,10 @@ https://chndlrm.github.io/CSS385-Build1/
 
 https://chndlrm.github.io/CSS385-Build2/
 
-
 ## Part 4: Alpha Play Test
 ### Changes
 - Level selection screen
-- Five levels + tutorial
+- Four levels + tutorial
 - Background music
 - Sound Effects
 - Enemies
@@ -57,9 +56,7 @@ https://chndlrm.github.io/CSS385-Build2/
 https://kylunr.github.io/FamineFighters/
 Note: Pressing the demo button on the title screen crashes the WebGL  
 
-
 ### Feedback
-
 
 ## Part 5: Beta Play Test
 ### Changes
@@ -71,15 +68,14 @@ https://chndlrm.github.io/CSS-385-Build4/
 
 ### Feedback
 
-
 ## Part 6: Final Play Through
 ### Changes
 - Improved collision system
 - Credits Scene
 - Updated Title Screen
+- Fixed minor bugs
 
 https://chndlrm.github.io/CSS-385-Build5/index.html
-
 
 ## Difficulties and Known Problems
 GitHub caused us problems as it didn't always merge scenes correctly. Initially we didn't know which files to push and this caused storage issues on GitHub. 
@@ -110,7 +106,6 @@ We used a tile map to construct the terrain which had its own specific collider 
 
 ## Conclusion and Thoughts
 As I said above, my team initially commited to a three-person setup. Our Professor let three different students join our team since every other team had four or more members. While we had no problems with this and willingly adjusted, the first two new members either dropped the class or switched to a different team, our final fourth member joined our team after we had established the concept and prototypes. In the beginning, it was somewhat difficult to catch him up since he wanted to implement code that we already had in place. By the end, we were able to come to a happy medium since he ended up working mainly on enemies and their animations.
-
 
 ## Assets Used
 Characters, enemies, traps, obstacles, items, and terrain were found on the Unity Asset Store:
