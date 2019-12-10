@@ -54,9 +54,8 @@ https://chndlrm.github.io/CSS385-Build2/
 - Enemies
 - Timed medal system
 
-
 https://kylunr.github.io/FamineFighters/
-* Pressing the demo button on the title screen crashes the WebGL * 
+Note: Pressing the demo button on the title screen crashes the WebGL  
 
 
 ### Feedback
@@ -110,16 +109,21 @@ We used a tile map to construct the terrain which had its own specific collider 
 - Checkpoint system
 
 ## Conclusion and Thoughts
+As I said above, my team initially commited to a three-person setup. Our Professor let three different students join our team since every other team had four or more members. While we had no problems with this and willingly adjusted, the first two new members either dropped the class or switched to a different team, our final fourth member joined our team after we had established the concept and prototypes. In the beginning, it was somewhat difficult to catch him up since he wanted to implement code that we already had in place. By the end, we were able to come to a happy medium since he ended up working mainly on enemies and their animations.
 
 
-
-### Assets Used
-Characters, enemies, traps, obstacles, items, and terrain were found on the Unity Asset Store. 
-https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360
-https://assetstore.unity.com/packages/2d/characters/pixel-adventure-2-155418
+## Assets Used
+Characters, enemies, traps, obstacles, items, and terrain were found on the Unity Asset Store:
+- https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360
+- https://assetstore.unity.com/packages/2d/characters/pixel-adventure-2-155418
 
 Background music was found on SoundCloud:
+- https://soundcloud.com/adhesivewombat/adhesivewombat-8-bit-adventure
 
 Sound effects were found on freesound.org:
+- https://freesound.org/people/dersuperanton/sounds/434462/
+- https://freesound.org/people/josepharaoh99/sounds/383240/
+- https://freesound.org/people/Natty23/sounds/349182/
+- https://freesound.org/people/AudioPapkin/sounds/432292/
 
 The title image was created with Canva.com
