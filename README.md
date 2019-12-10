@@ -92,7 +92,7 @@ We used a tile map to construct the terrain which had its own specific collider 
 - iMessage
 
 ##### File Sharing
-- GitHub (didn't work the way we wanted to)
+- GitHub (didn't work the way we wanted it to)
 - Unity Collaboration Tool
 
 ##### Assets
