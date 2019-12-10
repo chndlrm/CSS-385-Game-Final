@@ -48,17 +48,25 @@ https://chndlrm.github.io/CSS385-Build2/
 ## Part 4: Alpha Play Test
 ### Changes
 - Level selection screen
-
+- Five levels + tutorial
+- Background music
+- Sound Effects
+- Enemies
+- Timed medal system
 
 
 https://kylunr.github.io/FamineFighters/
+* Pressing the demo button on the title screen crashes the WebGL * 
+
 
 ### Feedback
 
 
 ## Part 5: Beta Play Test
 ### Changes
-
+- Updated tutorial to better explain the mechanics of the game
+- More enemies
+- Fixed minor bugs
 
 https://chndlrm.github.io/CSS-385-Build4/
 
